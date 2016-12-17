@@ -1,6 +1,5 @@
 from scapy.all import *
 import os
-import time
 ap_list = []
 no_ap=0
 broadcast="ff:ff:ff:ff:ff:ff"
